@@ -1,3 +1,3 @@
 # FirstRepository
 
-Getting real sick of the same old shit.
+Do, or do not, there is no try.
